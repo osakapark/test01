@@ -6,7 +6,7 @@
 
 
 ## 1. start.spring.io  에서 import 받기
-  ![image description](/image/start_spring_io.png)
+  ![image description](./image/start_spring_io.png)
 
   1. 선택사항 : Java, Gradle Project, War
   2. Depedencies : Spring Boot DevTools, Lombok, spring Web, Thymeoleaf, Spring DAta Jpa
@@ -19,11 +19,11 @@
    File > Import > Gradle > Existing Gradle Project 
    Project root directory 설정 : (예 : D:\00.study\my05\workspace\board)   
  4. 프로젝트 생성 확인
-   ![image description](/image/sts_after_import.png)
+   ![image description](./image/sts_after_import.png)
 
 ## 3. UTF-8 설정
   1. Windows > Preference > General > Workapace
-   ![image description](/image/sts_utf8.png)
+   ![image description](./image/sts_utf8.png)
   2. Windows > Preference > Web > (CSS, HTML)
 
 ## 4. gradle
