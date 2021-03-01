@@ -6,7 +6,7 @@
 
 
 ## 1. start.spring.io  에서 import 받기
-  ![image description](/image/start_spring_io.png)
+  ![image description](./image/start_spring_io.png)
 
   1. 선택사항 : Java, Gradle Project, War
   2. Depedencies : Spring Boot DevTools, Lombok, spring Web, Thymeoleaf, Spring DAta Jpa
